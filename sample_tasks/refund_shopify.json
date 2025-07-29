@@ -1,0 +1,7 @@
+{
+  "action": "refund",
+  "platform": "shopify",
+  "order_id": "12345",
+  "amount": 10.0,
+  "reason": "duplicate"
+}
