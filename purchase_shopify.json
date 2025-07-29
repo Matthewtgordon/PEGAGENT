@@ -1,0 +1,13 @@
+{
+  "action": "purchase",
+  "platform": "shopify",
+  "payload": {
+    "sku": "SKU-1",
+    "qty": 1,
+    "address": {
+      "line1": "123 A St",
+      "city": "X",
+      "region": "CA"
+    }
+  }
+}

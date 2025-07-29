@@ -1,0 +1,10 @@
+{
+  "action": "address_change",
+  "platform": "shopify",
+  "order_id": "12345",
+  "address": {
+    "line1": "123 A St",
+    "city": "X",
+    "region": "CA"
+  }
+}
