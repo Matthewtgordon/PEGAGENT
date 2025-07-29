@@ -1,0 +1,19 @@
+{
+  "email": {
+    "to": [
+      "you@example.com"
+    ],
+    "from": "bot@example.com",
+    "provider": "sendgrid"
+  },
+  "sms": {
+    "to": [
+      "+1XXXXXXXXXX"
+    ],
+    "provider": "twilio"
+  },
+  "webhook": {
+    "enabled": false,
+    "url": ""
+  }
+}

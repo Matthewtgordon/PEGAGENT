@@ -1,7 +1,9 @@
-# repo: your-project/ops_bridge/approvals.json
 {
   "refund": "manual",
   "cancel": "manual",
   "address_change": "manual",
-  "purchase": { "mode": "delay_auto", "delay_minutes": 15 }
+  "purchase": {
+    "mode": "delay_auto",
+    "delay_minutes": 15
+  }
 }
