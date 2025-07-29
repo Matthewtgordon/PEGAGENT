@@ -4,6 +4,6 @@
   "address_change": "manual",
   "purchase": {
     "mode": "delay_auto",
-    "delay_minutes": 15
+    "delay_minutes": 0.1
   }
 }
